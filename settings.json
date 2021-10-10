@@ -1,7 +1,14 @@
 {
-  "workbench.colorTheme": "Quiet Light",
-  "editor.minimap.enabled": false,
-  "emmet.triggerExpansionOnTab": true,
-  "editor.tabSize": 2
-  // "workbench.iconTheme": "vscode-great-icons",
+    "workbench.colorTheme": "Quiet Light",
+    "editor.minimap.enabled": false,
+    "emmet.triggerExpansionOnTab": true,
+    "editor.tabSize": 2,
+    // "workbench.iconTheme": "vscode-great-icons",
+    // "ruby.useBundler": true,
+    // "ruby.lint": {
+    //     "rubocop": {
+    //         "useBundler": true
+    //     }
+    // },
+    // "ruby.format": "rubocop",
 }
